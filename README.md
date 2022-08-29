@@ -1,4 +1,3 @@
-## Me chamo Caio Monteiro, sou criador do projeto empresa livre.
 <div align="center">
   <a href="https://github.com/caiokal">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiokal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
